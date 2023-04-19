@@ -1,4 +1,4 @@
 flask_tutorial
 .python-version
-__pycache__
 .env
+__pycache__
