@@ -2,5 +2,4 @@ flask_tutorial
 .python-version
 .env
 __pycache__
-config.py
-/apps/config.py
+/flask_tutorial/apps/config.py
