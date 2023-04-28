@@ -3,3 +3,4 @@ flask_tutorial
 .env
 __pycache__
 config.py
+/apps/config.py
